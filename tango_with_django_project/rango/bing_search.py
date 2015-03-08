@@ -1,6 +1,6 @@
 import json
 import urllib, urllib2
-from keys.py import*
+from keys import*
 
 def run_query(search_terms):
     # Specify the base
